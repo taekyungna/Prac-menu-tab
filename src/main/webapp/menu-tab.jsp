@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>메뉴 탭 만들기</title>
+<title>메뉴 탭 구현하기</title>
 </head>
 <link rel="stylesheet" href="css.css" />
 <body>
